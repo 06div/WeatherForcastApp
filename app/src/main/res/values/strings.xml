@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WeatherForcast App</string>
+
+    <!--    Splash Screen -->
+    <string name="weatherMatters">Weather Matters, \nWe\'ve Got the Details</string>
+
+    <!--    Main Screen-->
+    <string name="today">Today</string>
+    <string name="sunny">sunny</string>
+    <string name="temp">00:00 \u2103</string>
+    <string name="maxTemp">Max: 00:00 \u2103</string>
+    <string name="minTemp">Min: 00:00 \u2103</string>
+    <string name="day">Day</string>
+    <string name="date">Date</string>
+
+    <string name="tempwithoutC">00:00</string>
+    <string name="speed">0.00 M/s</string>
+    <string name="seaMeasure">0000 hPa</string>
+    <string name="humid">00 %</string>
+    <string name="sunset">Sun Set</string>
+    <string name="sunrise">Sun Rise</string>
+    <string name="windspeed">Wind Speed</string>
+    <string name="condition">Condition</string>
+    <string name="sea">Sea</string>
+    <string name="humidity">Humidity</string>
+    <string name="fiveday">Six Day Weather Forecast</string>
+
+<!--    Days Screen-->
+    <string name="location">City Location</string>
+    <string name="fiveDay">Six Days Weather Forecast</string>
+    <string name="dayAndDate">Day and Date</string>
+
+</resources>
